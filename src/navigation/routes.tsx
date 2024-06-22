@@ -32,4 +32,5 @@ export const routes: Route[] = [
       </svg>
     ),
   },
+  { path: '/quiz', title: 'Team Building Quiz' }, // Added this line
 ];
